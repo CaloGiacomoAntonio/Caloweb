@@ -1,0 +1,12 @@
+{
+    "name": "esercizio_h1_h2_h3_h4_",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc", "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
